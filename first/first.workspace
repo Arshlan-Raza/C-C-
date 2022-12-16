@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="first" Database="" Version="10000">
+  <Project Name="first" Path="first/first.project" Active="Yes"/>
+  <Project Name="Project1" Path="Project1/Project1.project" Active="No"/>
+  <Project Name="sizeof" Path="sizeof/sizeof.project" Active="No"/>
+  <Project Name="section6" Path="section6/section6.project" Active="No"/>
+  <Project Name="vectors" Path="vectors/vectors.project" Active="No"/>
+  <Project Name="first" Path="first/first.project" Active="Yes"/>
+  <Project Name="Loop" Path="Loop/Loop.project" Active="No"/>
+  <Project Name="section9" Path="section9/section9.project" Active="No"/>
+  <Project Name="pyramid" Path="pyramid/pyramid.project" Active="No"/>
+  <Project Name="function" Path="function/function.project" Active="No"/>
+  <Project Name="Section13" Path="Section13/Section13.project" Active="No"/>
+  <Project Name="lengthOfArray" Path="lengthOfArray/lengthOfArray.project" Active="No"/>
+  <Project Name="DSA" Path="DSA/DSA.project"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="first" ConfigName="Debug"/>
+      <Project Name="Project1" ConfigName="Debug"/>
+      <Project Name="sizeof" ConfigName="Debug"/>
+      <Project Name="section6" ConfigName="Debug"/>
+      <Project Name="vectors" ConfigName="Debug"/>
+      <Project Name="first" ConfigName="Debug"/>
+      <Project Name="Loop" ConfigName="Debug"/>
+      <Project Name="section9" ConfigName="Debug"/>
+      <Project Name="pyramid" ConfigName="Debug"/>
+      <Project Name="function" ConfigName="Debug"/>
+      <Project Name="Section13" ConfigName="Debug"/>
+      <Project Name="lengthOfArray" ConfigName="Debug"/>
+      <Project Name="DSA" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="first" ConfigName="Release"/>
+      <Project Name="Project1" ConfigName="Release"/>
+      <Project Name="sizeof" ConfigName="Release"/>
+      <Project Name="section6" ConfigName="Release"/>
+      <Project Name="vectors" ConfigName="Release"/>
+      <Project Name="first" ConfigName="Release"/>
+      <Project Name="Loop" ConfigName="Release"/>
+      <Project Name="section9" ConfigName="Release"/>
+      <Project Name="pyramid" ConfigName="Release"/>
+      <Project Name="function" ConfigName="Release"/>
+      <Project Name="Section13" ConfigName="Release"/>
+      <Project Name="lengthOfArray" ConfigName="Release"/>
+      <Project Name="DSA" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

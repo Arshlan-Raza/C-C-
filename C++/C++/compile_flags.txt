@@ -1,0 +1,4 @@
+-ID:\Arshlan\C++\C++\C++
+-std=c++17
+-target
+
