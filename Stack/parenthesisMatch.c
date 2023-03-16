@@ -30,7 +30,7 @@ char pop(struct stack *sp){
 
     if(isEmpty(sp)){
 
-        printf("Stack Underflow\n");
+        // printf("Stack Underflow\n");
         return -1;
 
     }
